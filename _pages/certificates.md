@@ -15,4 +15,5 @@ author_profile: true
 |6|Responsible Conduct of Research (RCR)|[CITI Training](https://www.citiprogram.org/verify/?wb8622b61-f2b2-42fe-8e02-f92f69c138e1-45964177)|8 hrs|Nov 9 2021|[View Certificate](https://www.citiprogram.org/verify/?wb8622b61-f2b2-42fe-8e02-f92f69c138e1-45964177)|
 |7|Learn Machine learning & AI (Including Hands-on 3 Projects)|[Udemy](https://www.udemy.com/certificate/UC-32425454-7399-423f-adae-654e49226bfa)|4 hrs|Oct 19 2021|[View Certificate](https://www.udemy.com/certificate/UC-32425454-7399-423f-adae-654e49226bfa)|
 |8|Deep Learning Bootcamp 2021: Build 10 Real World Projects|[Udemy](https://www.udemy.com/certificate/UC-4bfed0af-5029-45eb-b773-cc9018afcbf4/)|7 hrs|Jan 13 2022|[View Certificate](https://www.udemy.com/certificate/UC-4bfed0af-5029-45eb-b773-cc9018afcbf4/)|
-
+|9|Crash Course for Laravel 7 and VueJs|[Udemy](https://www.udemy.com/)|3 hrs|June 2020|
+|10|Fundamental of Digital Marketing-Google Digital Unlocked|[Google](https://grow.google/)|3 hrs|Apr 2019|
