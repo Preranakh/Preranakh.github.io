@@ -5,7 +5,7 @@ permalink: /certificates/
 author_profile: true
 ---
 
-|S.No.|Name of Course/License|Offered by|Date of Completion|Certificate|
+|S.No.|Name of Course/Conference|Offered by|Estimated period|Date of Completion|Certificate|
 |---|---|---|---|---|---|
 |1|Get Started with Figma|[Coursera](https://fusemachines.com/](https://www.coursera.org/account/accomplishments/verify/F3MB69ZR47FQ)|1.5 hrs|Sept 15 2022|
 |2|Daya Visualization for Everyone|[Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/7858ea2e8fc3ee5c224d8c53255530030a9d95d8)|2 hrs|June 5 2022|
