@@ -28,6 +28,21 @@ I am very much passionate doing HCI research using multiple methodologies with m
 <!-- Get a PDF copy of my CV [here](/files/Prerana_Khatiwada_resume.pdf) -->
 
 ---
+
+## Technical Skills
+ 
+---
+
+- **Languages/Tech Stack**: Html/Css,C, C++, Python, PHP,Telerik & Kendo UI
+- **Python Packages**: Scikit-Learn, Nltk, Pandas, Numpy, Matplotlib, Jupyter
+- **HCI Skills**: Thematic Analysis, Figma, Canva, Qualtrics Survey Design, Semi Structured Interviews, Usability
+Testing, Wireframing, Prototyping, Observational Study, Google Analytics, Dedoose , NVivo, User flows, Mockups,XLSTAT
+- **Database**: MySQL, PLSQL,Oracle, Snowflake, Firebase
+- **Other Tools**: Git,Github, JIRA, Slack, Weka, Confluence, ALM, Winscp, Putty, Visual Studio, Pycharm, Postman,LATEX,R Studio
+- **Frameworks/Libraries**: Angular JS, .NET Framework, Pandas, Numpy, NLTK, Kendo UI, Laravel
+- **BI Tools**: Looker, OBIEE, BI Publisher,Tableau
+
+---
 ## Education
 
 ---
@@ -115,7 +130,7 @@ retrospective).
 
 ### Content Designer
 
- April 10, 2019 - October 31, 2020
+ April 10, 2019 - October 31, 2019
 
 Digital Products Lab, <br> 
 Kathmandu, nepal
@@ -128,31 +143,53 @@ developing a Shopify app that makes an impact.
 
 ---
 
-
 ## Technical Experience
 
 ---
 
 ### Projects
 
+- **Community Comms**: Worked as HCI researcher to developed Chrome Extension that passively logs user browsing behaviour
+behaviour and allows users to view the aggregated bias rating of a news site, a real-time breakdown of their news media
+consumption for the day, and other metadata associated with their online behavior.
 
+- **UD students Observation**: In this project ,a formative inquiry was often performed –namely, in-situ observation–to
+understand how students currently use a complex digital kiosk that we can easily observe in public such as an ATM or a digital
+menu and ordering system in a fast food restaurant. We analyze this data, identify where and how they struggle, and sketch
+out alternative designs.
+
+- **Desktop and Mobile-friendly Web Page**: I developed a ready to publish Desktop friendly and mobile friendly webpage
+with the help of Canva graphic design tool and link these pages to social media channel, published them with the help of
+Canva URL.
+
+- **SWARM**: Created a well-structured RESTful API, using the ASP.NET Core framework and Telerik ASP.Net controls.
+- 
+- **Evaluating Serverless Machine Learning Performance with Google Cloud Run**: Created a Machine Learning
+Python Flask Application for image classification, containerize it, and deployed the containerized application in the google
+cloud platform and determine different metrics like autoscaling feature. Tech: Python, Google Cloud Run, Docker, Containers,
+Locust API.
+
+- **Nepal Stock Exchange**: Worked on front end, Customize the Trade Management and Surveillance system for ’NEPSE’.
+Tech: Angular6, MySQL, Kendo UI JS Library
+
+- **Gocchi:Complaince Manager**: Customer Support and Website Maintenance, Website architecture and user interface
+design, Prototyoing in Figma. Tech: React/Redux, Bubble.io, Hubspot
+
+- **Family Tree**: Mobile App (Android) User Flow Planning & Unit-testing for robustness, including edge cases, usability, and
+general reliability. Tech: React/Redux, Bubble.io, Hubspot
+
+- **Siam Makro, Thailand**: Created business intelligence reports and data warehousing solutions for retail clients,Oracle retail
+Merchandising system, Query Optimization Tech: Oracle, OBIEE, BIP, Bash scripting, Winscp.
+
+- **BELK United States**: Batch Handling/Monitoring, Scheduling and execution of ETL tool jobs, Creation of Extraction and
+Loading scripts in accordance to the existing python script, ETL, Datavalidation Tech: Snowflake, Autosys, Putty
+
+- **Hot Topic, Inc, United States**: Developed custom scripts for the ETL purpose, Performed unit testing and extensive
+validation across the source and target systems, Prepared sales and inventory reports. Tech: Looker,Jira, Snowflake, Python
 
 ---
 
 <!-- ## Additional Experiences and Certifications:
  -->
----
 
-## Technical Skills
- 
----
-
-- **Languages/Tech Stack**: Html/Css,C, C++, Python, PHP,Telerik & Kendo UI
-- **Python Packages**: Scikit-Learn, Nltk, Pandas, Numpy, Matplotlib, Jupyter
-- **HCI Skills**: Thematic Analysis, Figma, Canva, Qualtrics Survey Design, Semi Structured Interviews, Usability
-Testing, Wireframing, Prototyping, Observational Study, Google Analytics, Dedoose , NVivo, User flows, Mockups,XLSTAT
-- **Database**: MySQL, PLSQL,Oracle, Snowflake, Firebase
-- **Other Tools**: Git,Github, JIRA, Slack, Weka, Confluence, ALM, Winscp, Putty, Visual Studio, Pycharm, Postman,LATEX,R Studio
-- **Frameworks/Libraries**: Angular JS, .NET Framework, Pandas, Numpy, NLTK, Kendo UI, Laravel
-- **BI Tools**: Looker, OBIEE, BI Publisher,Tableau
 ---
