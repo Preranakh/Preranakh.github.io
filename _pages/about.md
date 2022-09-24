@@ -163,7 +163,7 @@ with the help of Canva graphic design tool and link these pages to social media 
 Canva URL.
 
 - **SWARM**: Created a well-structured RESTful API, using the ASP.NET Core framework and Telerik ASP.Net controls.
-- 
+
 - **Evaluating Serverless Machine Learning Performance with Google Cloud Run**: Created a Machine Learning
 Python Flask Application for image classification, containerize it, and deployed the containerized application in the google
 cloud platform and determine different metrics like autoscaling feature. Tech: Python, Google Cloud Run, Docker, Containers,
