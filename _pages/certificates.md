@@ -16,4 +16,4 @@ author_profile: true
 |7|Learn Machine learning & AI (Including Hands-on 3 Projects)|[Udemy](https://www.udemy.com/certificate/UC-32425454-7399-423f-adae-654e49226bfa)|4 hrs|Oct 19 2021|[View Certificate](https://www.udemy.com/certificate/UC-32425454-7399-423f-adae-654e49226bfa)|
 |8|Deep Learning Bootcamp 2021: Build 10 Real World Projects|[Udemy](https://www.udemy.com/certificate/UC-4bfed0af-5029-45eb-b773-cc9018afcbf4/)|7 hrs|Jan 13 2022|[View Certificate](https://www.udemy.com/certificate/UC-4bfed0af-5029-45eb-b773-cc9018afcbf4/)|
 |9|Crash Course for Laravel 7 and VueJs|[Udemy](https://www.udemy.com/)|3 hrs|June 2020|
-|10|Fundamental of Digital Marketing-Google Digital Unlocked|[Google](https://grow.google/)|3 hrs|Apr 2019|
+|10|COVID-19: Operational Planning Guidelines and COVID-19 Partners Platform to support  country preparedness and response|[WHO-World Health Organization](https://www.who.int/)|4 hrs|May 2019|
