@@ -1,6 +1,7 @@
+---
 layout: archive
-title: "Blogs and Articles"
-permalink: /blogs/
+title: "Honors and Awards"
+permalink: /honors/
 author_profile: true
 ---
 
