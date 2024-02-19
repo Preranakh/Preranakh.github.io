@@ -7,7 +7,6 @@ author_profile: true
 
 |S.No.|Name of Course/Conference|Offered by|Estimated period|Date of Completion|Certificate|
 |---|---|---|---|---|---|
-
 |1|Corporate	Analyst	Development	Program (CADP)	Job	Simulation|[JPMorgan Chase and Co.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase%20Corporate/4dy5SP43KMPppKz2i_JPMorgan%20Chase%20&%20Co._TBWRBo79LXevJhLGd_1707194522696_completion_certificate.pdf)|3 hrs|Feb 2024|
 |2|Quantitative	Research	Job	Simulation|[JPMorgan Chase and Co.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._TBWRBo79LXevJhLGd_1707275182086_completion_certificate.pdf)|4 hrs|Feb 2024 2019|
 |3|Fine Tune BERT for Text Classification with TensorFlow
