@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-    - title: "Research"
+  - title: "Research"
     url: /research/
 
-    - title: "CV"
+  - title: "CV"
     url: /cv/
 
-    - title: "Projects"
+  - title: "Projects"
     url: /projects/ 
     
   - title: "Teaching"
@@ -17,15 +17,12 @@ main:
 
   - title: "Blogs and Articles"
     url: /blogs/    
-
-    
+ 
   - title: "Honors and Awards"
     url: /honors/
-
-        
+   
   - title: "Service to Profession"
     url: /service/
-    # main links links
 
   - title: "Certificates"
     url: /certificates/
