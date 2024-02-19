@@ -8,14 +8,11 @@ author_profile: true
 |S.No.|Name of Course/Conference|Offered by|Estimated period|Date of Completion|Certificate|
 |---|---|---|---|---|---|
 
-|1|Corporate	Analyst	Development	Program (CADP)	Job	Simulation|[JPMorgan Chase and Co.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase%20Corporate/4dy5SP43KMPppKz2i_JPMorgan%20Chase%20&%20Co._TBWRBo79LXevJhLGd_1707194522696_completion_certificate.pdf)|3 hrs|Feb 2024|
-|2|Quantitative	Research	Job	Simulation|[JPMorgan Chase and Co.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._TBWRBo79LXevJhLGd_1707275182086_completion_certificate.pdf)|4 hrs|Feb 2024 2019|
-|3|Fine Tune BERT for Text Classification with TensorFlow
-|[Coursera](https://www.coursera.org/account/accomplishments/verify/CNY7M3UFYTYH)|2 hrs|Dec 2023|
-|4|Introduction to Generative AI
-|[Coursera](https://www.who.int/](https://www.coursera.org/account/accomplishments/verify/N7RD55H3CPK7)|1 hr|Dec 2023|
-|5|Introduction to Large Language Models
-|[Coursera](https://www.who.int/](https://www.coursera.org/account/accomplishments/verify/Z5D9X9WHEYKP)|1 hr|Dec 2023|
+|1|Corporate	Analyst	Development	Program (CADP)Job	Simulation|[JPMorgan Chase and Co.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase%20Corporate/4dy5SP43KMPppKz2i_JPMorgan%20Chase%20&%20Co._TBWRBo79LXevJhLGd_1707194522696_completion_certificate.pdf)|3 hrs|Feb 2024|
+|2|Quantitative	Research Job	Simulation|[JPMorgan Chase and Co.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._TBWRBo79LXevJhLGd_1707275182086_completion_certificate.pdf)|4 hrs|Feb 2024 2019|
+|3|Fine Tune BERT for Text Classification with TensorFlow|[Coursera](https://www.coursera.org/account/accomplishments/verify/CNY7M3UFYTYH)|2 hrs|Dec 2023|
+|4|Introduction to Generative AI|[Coursera](https://www.coursera.org/account/accomplishments/verify/N7RD55H3CPK7)|1 hr|Dec 2023|
+|5|Introduction to Large Language Models|[Coursera](https://www.coursera.org/account/accomplishments/verify/Z5D9X9WHEYKP)|1 hr|Dec 2023|
 |6|Get Started with Figma|[Coursera](https://www.coursera.org/projects/get-started-figma)|1.5 hrs|Sept 15 2022|[View Certificate](https://www.coursera.org/account/accomplishments/verify/F3MB69ZR47FQ)|
 |7|Data Visualization for Everyone|[Datacamp](https://www.datacamp.com/courses/understanding-data-visualization)|2 hrs|June 5 2022|[View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/7858ea2e8fc3ee5c224d8c53255530030a9d95d8)|
 |8|Understanding Data Science|[Datacamp](https://www.datacamp.com/courses/understanding-data-science)|2 hrs|June 5 2022|[View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/c794b6b0e150f4a57d4d7143794ad77d226a8e98)|
