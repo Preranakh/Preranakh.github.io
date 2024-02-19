@@ -15,17 +15,18 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Blogs and Articles"
-    url: /blogs/    
+  - title: "Service to Profession"
+    url: /service/    
  
   - title: "Honors and Awards"
     url: /honors/
-   
-  - title: "Service to Profession"
-    url: /service/
-
+    
   - title: "Certificates"
     url: /certificates/
+    
+  - title: "Blogs and Articles"
+    url: /blogs/
+
 
   # - title: "Guide"
   #   url: /markdown/
