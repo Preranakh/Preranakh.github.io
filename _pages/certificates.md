@@ -15,9 +15,11 @@ author_profile: true
 |3|Fine Tune BERT for Text Classification with TensorFlow
 |[Coursera](https://www.coursera.org/account/accomplishments/verify/CNY7M3UFYTYH)|2 hrs|Dec 2023|
 
-|10|COVID-19: Operational Planning Guidelines and COVID-19 Partners Platform to support  country preparedness and response|[WHO-World Health Organization](https://www.who.int/)|4 hrs|May 2019|
+|4|Introduction to Generative AI
+|[Coursera](https://www.who.int/](https://www.coursera.org/account/accomplishments/verify/N7RD55H3CPK7)|1 hr|Dec 2023|
 
-|10|COVID-19: Operational Planning Guidelines and COVID-19 Partners Platform to support  country preparedness and response|[WHO-World Health Organization](https://www.who.int/)|4 hrs|May 2019|
+|10|Introduction to Large Language Models
+|[Coursera](https://www.who.int/](https://www.coursera.org/account/accomplishments/verify/Z5D9X9WHEYKP)|1 hr|Dec 2023|
 
 |10|COVID-19: Operational Planning Guidelines and COVID-19 Partners Platform to support  country preparedness and response|[WHO-World Health Organization](https://www.who.int/)|4 hrs|May 2019|
 
