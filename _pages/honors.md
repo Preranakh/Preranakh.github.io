@@ -8,7 +8,7 @@ author_profile: true
 |S.No.|Award Name|Offered by|
 |---|---|---|---|---|---|
 
-|1|Nominated--Doctoral Fellowship for Excellence '24 - '25|[University of Delaware](https://www.udel.edu/)|
+|1|_Nominated_--Doctoral Fellowship for Excellence '24 - '25|[University of Delaware](https://www.udel.edu/)|
 |2|Grace Hopper 2023 Travel Award|[University of Delaware](https://www.cis.udel.edu/)|
 |3|Travel support for (DIS 2023) – ACM Designing Interactive Systems|[University of Delaware](https://www.cis.udel.edu/)|
 |4|CIS Distinguished Graduate Student Award 2023|[University of Delaware](https://www.cis.udel.edu/)|
