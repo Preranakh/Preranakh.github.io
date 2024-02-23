@@ -38,7 +38,7 @@ I am very much passionate doing HCI research using multiple methodologies with m
 2024-Present
 
 University of Delaware, <br> 
-Newark, 
+Newark, Delaware
 
 ---
 
@@ -47,7 +47,7 @@ Newark,
 2021-2024
 
 University of Delaware, <br> 
-Newark, 
+Newark, Delaware
 
 GPA: 3.9 / 4.0
 
