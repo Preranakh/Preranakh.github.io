@@ -51,7 +51,8 @@ Newark, Delaware
 
 GPA: 3.9 / 4.0
 
-**Coursework:** Machine Learning; Artificial Intelligence; Database Systems; Operating Systems; Theory of Computation, Data Mining, Human Computer Interaction, Advanced Computer Applications, Statistics, Research in Cybersecurity, Research in Accessible Computing
+**Coursework:** Machine Learning, Artifical Intelligence, Operating System, Theory of Computation, DataMining, HCI, Statistics, Research in Cybersecurity, Research in Accessible Computing
+
 ---
 ### BE, Computer Engineering
 
