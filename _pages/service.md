@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Honors and Awards"
-permalink: /honors/
+title: "Service to Profession"
+permalink: /service/
 author_profile: true
 
 ---In progress................
