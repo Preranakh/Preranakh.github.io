@@ -63,9 +63,9 @@ Dhulikhel, Nepal
 
 CGPA: 3.78 / 4.0
 
-**Coursework:** Machine Learning; Artificial Intelligence; Natural Language Processing; Data Structure and Algorithms;
-Database Management Systems; Operating Systems; Advanced Calculus and Linear Algebra; C; C++; Computer Architecture;
-Software Engineering; Digital Signal Processing; Embedded Systems
+**Coursework:** Machine Learning, Artificial Intelligence, Natural Language Processing, Data Structure and Algorithms,
+Database Management Systems, Operating Systems, Advanced Calculus and Linear Algebra, C, C++, Computer Architecture,
+Software Engineering, Digital Signal Processing, Embedded Systems
 
 ---
 
