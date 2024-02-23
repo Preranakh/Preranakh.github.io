@@ -21,7 +21,7 @@ I am a second-year Ph.D. student CIS department and an HCI researcher at the Uni
 
 I am very much passionate doing HCI research using multiple methodologies with my critical thinking, problem-solving, and software engineering skillsets that can improve users' experiences. I want to utilize my User Experience Research expertise and specialty in Machine Learning & Natural language Processing and Data Analytics to bridge the gap between users’ needs and technology.
 
-**Research Interests**: Human Computer Interaction(HCI), Machine Learning and Natural Language Processing.
+**Research Interests or Area**: Human Computer Interaction(HCI), Misinformation, Interventions and Natural Language Processing.
 
 ---
 
@@ -39,8 +39,6 @@ I am very much passionate doing HCI research using multiple methodologies with m
 
 University of Delaware, <br> 
 Newark, 
-
-**Research Area:** Human Computer Interaction
 
 ---
 
