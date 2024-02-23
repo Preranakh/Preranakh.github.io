@@ -35,7 +35,7 @@ I am very much passionate doing HCI research using multiple methodologies with m
 
 ### PhD, Computer and Information Sciences
 
-2024-Present
+2021-Present
 
 University of Delaware, <br> 
 Newark, Delaware
