@@ -1,3 +1,7 @@
 ---
-citation: 'Khatiwada, P., Halko, L., Syed, N., Mahesh, A., Alvanpour, A., Mauriello, M.L. (2024). "Spotting Online News: A Mixed Method Study of Online News Engagement and Perceptions on Misinformation Interventions." Minor Revision CSCW 2025.'
+title: "Toward Browser-based Interventions to Tackle Misinformation Online"
+collection: publications
+permalink: /publication/2021-comms-1
+date: NA
+citation: 'Khatiwada, P., Mumma, I., Halko, L., Alvanpour, A., Mauriello, M.L. (2022). "Toward Browser-based Interventions to Tackle Misinformation Online." The Designing for Mis/Disinformation Workshop (CHI ’22 Workshop).'
 ---
