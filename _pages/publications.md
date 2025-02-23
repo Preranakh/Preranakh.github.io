@@ -35,6 +35,4 @@ author_profile: true
 
 - **Parekh, S., Khatiwada, P., Bagozzi, B. E., Mauriello, M. L.** (2025). *“The Security of Work: Public Perceptions of Generative AI in Creative Writing and its Implications for Labor.”* (*In Preparation* — *CSCW 2025*)
 
-- **Vajpeyi, M., Mukhopadhyay, S., Khatiwada, P., Gupta, V., & Roth, D.** (2025). *“Enhancing Product Descriptions with LLM-Driven Structured Insights.”* (*In Preparation* — *ACL Demo 2025*)
-
 ---
