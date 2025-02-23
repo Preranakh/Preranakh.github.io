@@ -3,7 +3,6 @@ layout: archive
 permalink: /service-to-profession/
 author_profile: true
 ---
-# Service to Profession
 
 ## 🏛️ **Leadership Roles**
 - **Co-Chair, Professional Development and Public Relations** — *Delaware Nepali Society* (2025–Present)  
