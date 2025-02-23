@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Service to Profession"
 permalink: /service-to-profession/
 author_profile: true
 ---
