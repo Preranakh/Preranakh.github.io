@@ -18,18 +18,10 @@ The reason behind the realization of misinformation as the burning issue and ide
 
 My research works and projects include:
 
-- Developing Crowdsourcing and intervention tool/prototype(Chrome Plugin) capable of logging a user’s browsing
-data, storing media annotations, and displaying information about news media bias using existing datasets.
-- Background in qualitative, quantitative, and mixed method UX research methods, Knowledge of wireframe tools
-e.g. Figma.
-- Developing personas and usage scenarios.
-- Preparing low-fidelity prototypes of UI (ranging from paper-and-pencil concepts to wireframes or prototypes) to
-high-fidelity designs/ mockups of UI, and high-fidelity visuals for the features.
-- Participating in User Experience Design activities such as Usability Testing, Semi Structured Interviews with
-respect to online experiences with misinformation, Surveys, observation.
-- Conducting usability evaluations and providing recommendations on how to improve our designs, Helping to
-extend and maintain our design system.
-- Integrate Firebase Authentication and Firebase Security Rules, Work on developing personalized visualizations
-and informatics dashboards using D3.js.
-- Developed a toolbar that provides the user with information about the political leaning and fact-based reporting
-of a given news source.
+-Designing In-Situ Misinformation Interventions Using LLMs:
+-Adaptive User-Centered Tools for Media Literacy:
+-Mixed-Methods UX Research for Misinformation Detection:
+-User Experience Design for Adaptive Interfaces:
+-Usability Evaluation & Design System Enhancement:
+-Interactive Visualizations for Real-Time Insights:
+-Security and Privacy-Preserving Interventions:
