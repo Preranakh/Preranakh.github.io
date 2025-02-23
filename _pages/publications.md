@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## 📰 Peer-Reviewed Publications
 
 - **Khatiwada, P., Mumma, I., Halko, L., Alvanpour, A., Mauriello, M.L.** (2022). *“Toward Browser-based Interventions to Tackle Misinformation Online.”* The Designing for Mis/Disinformation Workshop (**CHI ‘22 Workshop**).
