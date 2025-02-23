@@ -18,10 +18,10 @@ The reason behind the realization of misinformation as the burning issue and ide
 
 My research works and projects include:
 
--Designing In-Situ Misinformation Interventions Using LLMs:
--Adaptive User-Centered Tools for Media Literacy:
--Mixed-Methods UX Research for Misinformation Detection:
--User Experience Design for Adaptive Interfaces:
--Usability Evaluation & Design System Enhancement:
--Interactive Visualizations for Real-Time Insights:
--Security and Privacy-Preserving Interventions:
+- Designing In-Situ Misinformation Interventions Using LLMs:
+- Adaptive User-Centered Tools for Media Literacy:
+- Mixed-Methods UX Research for Misinformation Detection:
+- User Experience Design for Adaptive Interfaces:
+- Usability Evaluation & Design System Enhancement:
+- Interactive Visualizations for Real-Time Insights:
+- Security and Privacy-Preserving Interventions:
