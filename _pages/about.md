@@ -37,7 +37,7 @@ My work leverages my expertise in Machine Learning (ML), Natural Language Proces
 
 ### PhD, Computer and Information Sciences
 
-2021-Present
+2021-2026 (Expected)
 
 University of Delaware, <br> 
 Newark, Delaware
