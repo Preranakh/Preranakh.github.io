@@ -30,15 +30,16 @@ author_profile: true
 ---
 
 ## 💻 **Design & Development**
+- **Website Designer** — *Delaware Nepali Society (DNS)* (2025–Present)
 - **Website Designer** — *Nepalese Student Association, University of Delaware* (2023–Present)  
-- **Website Designer** — *Graduate Student Government (GSG-UD)* (2024–Present)  
+- **Website Designer** — *Graduate Student Government (GSG-UD)* (2024–2025)  
 - **Graphic Designer** — *Nepalese Student Association, University of Delaware* (2023–Present)  
 - **Graphic Designer** — *Nepali Women in Computing (NWiC)* (2024–Present)  
 
 ---
 
 ## 🌐 **Committee Involvement & Memberships**
-- **Events Committee Member** — *Delaware Nepali Society* (2024–Present)  
+- **Events Committee Member** — *Delaware Nepali Society* (2024)  
 - **Voting & Subcommittee Member (ECPR)** — *Events, Communications, and Public Relations, Delaware Nepali Society* (2024–Present)  
 - **Graduate Student Representative** — *International Studies Committee, University of Delaware* (2023–2024)  
 - **Member** — *Nepali Women in Computing (NWiC), part of AnitaB.org* (2024–Present)  
