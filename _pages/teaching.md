@@ -5,35 +5,44 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses    
-  * CISC474 (Advanced Web Technologies)
-     * Fall 2021 
-  * CISC684 (Machine Learning)
-     * Spring 2022    
-  * CISC361 (Operating System)
-     * Fall 2022
-  * CISC474 (Advanced Web Technologies)
-     * Spring 2023
-   * CISC474 (Advanced Web Technologies)
-     * Fall 2023
-   * CISC637 (Database Systems)
-     * Spring 2024 
-          * Hold office hours
-          * Grade assignments and projects.
-          * Collaborate with the teacher to develop lesson plans, instructional materials and activities
-          * Offer one-on-one assistance to students who require extra help or clarification.
-          * Handled lectures in the absence of Professor.
-          * Assess student progress through assignments, quizzes, exams, and other means.
-          * Develop course materials such as syllabi, handouts, and assignments.
-            
-  * CISC355 (Computer Ethics and Society) 
-     * Winter Session 2024 (Jan-Feb) 
-          * Served as an Instructor for the course
-          * Explained relationships among information technology, society and ethics by examining issues raised by increasingly 
-            widespread use of computers.
-          * Topics include ethics for computer professionals, computer impact on factory work, office work, personal privacy and social 
-            power distribution.
-          * Prepare and deliver engaging and informative lectures or presentations.
-          * Develop course materials such as syllabi, handouts, and assignments.
-          * Assess student progress through assignments, quizzes, exams, and other means.
+## Courses  
 
+### Instructor & Teaching Assistant Roles  
+
+#### **Primary Instructor**  
+  * **CISC355 (Computer Ethics and Society)**  
+     * Winter Session 2024 (Jan-Feb)  
+        * Served as an Instructor for the course.  
+        * Explained relationships among information technology, society, and ethics by examining issues raised by the increasing use of computers.  
+        * Topics include ethics for computer professionals, computer impact on factory work, office work, personal privacy, and social power distribution.  
+        * Prepared and delivered engaging and informative lectures or presentations.  
+        * Developed course materials such as syllabi, handouts, and assignments.  
+        * Assessed student progress through assignments, quizzes, exams, and other means.  
+
+#### **Teaching Assistant**  
+  * **CISC637 (Database Systems)**  
+     * Spring 2024  
+        * Held office hours.  
+        * Graded assignments and projects.  
+        * Collaborated with the instructor to develop lesson plans, instructional materials, and activities.  
+        * Offered one-on-one assistance to students who required extra help or clarification.  
+        * Delivered lectures in the professor's absence.  
+        * Assessed student progress through assignments, quizzes, and exams.  
+        * Developed course materials such as syllabi, handouts, and assignments.  
+
+  * **CISC474 (Advanced Web Technologies)**  
+     * Fall 2021  
+     * Spring 2023  
+     * Fall 2023  
+
+  * **CISC684 (Machine Learning)**  
+     * Spring 2022    
+
+  * **CISC361 (Operating Systems)**  
+     * Fall 2022  
+
+  * **CISC482 (Human-Computer Interaction)**  
+     * Fall 2024.  
+
+  * **CISC220 (Data Structures)**  
+     * Spring 2025.  
