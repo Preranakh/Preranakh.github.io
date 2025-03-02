@@ -5,8 +5,6 @@ permalink: /honors/
 author_profile: true
 ---
 
-## Honors and Awards  
-
 Below is a list of the recognitions and awards I have received throughout my academic and professional journey.  
 
 | S.No. | Award Name | Offered By |
