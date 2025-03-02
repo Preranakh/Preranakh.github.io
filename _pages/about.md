@@ -31,6 +31,10 @@ My work leverages my expertise in Machine Learning (ML), Natural Language Proces
 
 ---
 
+## Background
+
+---
+
 ## Education
 
 ---
