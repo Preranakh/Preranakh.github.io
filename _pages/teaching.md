@@ -32,5 +32,5 @@ Courses assisted as a **Teaching Assistant:**
   * **CISC474 (Advanced Web Technologies)** – Fall 2021, Spring 2023, Fall 2023  
   * **CISC684 (Machine Learning)** – Spring 2022  
   * **CISC361 (Operating Systems)** – Fall 2022  
-  * **CISC482 (Human-Computer Interaction)**  
-  * **CISC220 (Data Structures)**  
+  * **CISC482 (Human-Computer Interaction)** – Fall 2024
+  * **CISC220 (Data Structures)** – Spring 2025
