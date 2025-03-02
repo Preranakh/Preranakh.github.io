@@ -32,7 +32,15 @@ My work leverages my expertise in Machine Learning (ML), Natural Language Proces
 ---
 
 ## Background
+I was born in a small town in the Terai region of Nepal, and looking back, I feel incredibly grateful for the journey that has brought me to where I am today. My parents have been my greatest inspiration, shaping me into the person I am with their unwavering support and love.
 
+I completed my undergraduate studies in Nepal, a place that holds so many beautiful memories of family, laughter, and discovery. Before moving to the U.S. for graduate studies, I spent two years working in the IT industry, specializing in data warehousing and business intelligence. That experience gave me a deep appreciation for data-driven insights and problem-solving, but more than anything, it fueled my passion for technology and its impact on people's lives.
+
+Curiosity has always been my guiding force, leading me to explore new ideas and interdisciplinary research in Human-Computer Interaction (HCI) and data science. My academic and professional journey has been shaped by the desire to create meaningful, user-centered technologies that can make a difference.
+
+Beyond work and research, I find so much joy in the little things—cooking is my therapy, where I can slow down and create something with love. I have a deep love for traveling, capturing moments through photography and video editing, and bringing stories to life through content creation. Sketching is another way I express myself, letting my imagination flow onto paper.
+
+Fun fact about me? I’m always rushing somewhere and forever a fast-facing expert—I like to keep life exciting and full of adventure!
 ---
 
 ## Education
