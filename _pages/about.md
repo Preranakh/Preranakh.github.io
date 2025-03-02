@@ -30,7 +30,6 @@ My work leverages my expertise in Machine Learning (ML), Natural Language Proces
 <!-- Get a PDF copy of my CV [here](/files/Prerana_Khatiwada_resume.pdf) -->
 
 ---
-
 ## Background
 I was born in a small town in the Terai region of Nepal, and looking back, I feel incredibly grateful for the journey that has brought me to where I am today. My parents have been my greatest inspiration, shaping me into the person I am with their unwavering support and love.
 
