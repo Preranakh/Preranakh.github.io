@@ -11,7 +11,7 @@ Below is a list of the recognitions and awards I have received throughout my aca
 
 | S.No. | Award Name | Offered By |
 |------|----------------------------------------------|-----------------------------------------------------|
-| 1 | CHI 2025 Papers – Submission 3676: Received an excellent reviewer rating. | [ACM CHI](https://chi2025.acm.org/) |
+| 1 | CHI 2025 Papers – Received an excellent reviewer rating. | [ACM CHI](https://chi2025.acm.org/) |
 | 2 | _Nominated_ — Doctoral Fellowship for Excellence ‘25-‘26 | [University of Delaware](https://www.udel.edu/) |
 | 3 | _Nominated_ — Graduate Student Excellence in Teaching Award ‘24 | [University of Delaware](https://www.udel.edu/) |
 | 4 | _Nominated_ — Doctoral Fellowship for Excellence ‘24-‘25 | [University of Delaware](https://www.udel.edu/) |
