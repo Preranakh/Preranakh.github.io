@@ -11,7 +11,9 @@ author_profile: true
 
 - **Khatiwada, P., Halko, L., Syed, N., Mahesh, A., Alvanpour, A., & Mauriello, M. L.** (2025). *“Spotting Online News: A Mixed Method Study of Online News Engagement and Perceptions on Misinformation Interventions.”* *Proceedings of the ACM on Human-Computer Interaction*, **9(2)**, Article CSCW173, 30 pages. [https://doi.org/10.1145/3711071](https://doi.org/10.1145/3711071)
 
-- **Mukhopadhyay, S., Rajgaria, A., Khatiwada, P., Shrivastava, M., Roth, D., & Gupta, V.** (2025). *“MAPWise: Evaluating Vision-Language Models for Advanced Map Queries.”* *Proceedings of NAACL 2025 Main Conference.*
+<!-- Mukhopadhyay, S., Rajgaria, A., Khatiwada, P., Shrivastava, M., Roth, D., & Gupta, V. (2025). 
+"MAPWise: Evaluating Vision-Language Models for Advanced Map Queries." 
+Proceedings of NAACL 2025 Main Conference. -->
 
 - **Khatiwada, P., Syed, N., Halko, L., Mahesh, A., Kiamilev, R., Vazquez, S. A., Mauriello, M. L.** (2025). *“Empowered Readers: A Controlled Usability Study of a Personal Informatics Tool for Supporting Users with Online News Content Discernment.”* (*Under Review* — *IJHCS*)
 
