@@ -29,6 +29,7 @@ Proceedings of NAACL 2025 Main Conference. -->
   
 - **Wang, Q., Khatiwada, P., Chouhan, A., Mahesh, A., Mwaria, J., Tran, D. D., Evans, C. B., Mauriello, M. L.** (2025). *“Exploring Decision Making in Human-AI Collaboration for News Classification with LLM-Generated Explanations.”* (*Under Review* — *IJHCS*)
 
+- Khatiwada, P., Wang, Q., Barner, K., Mauriello, M. L. (2025). “Towards a Multi-modal Multi-Label Election-Context Repository for Classifying Misinformation.” (Under Review — MisD 2025 Conference)
 
 ---
 
