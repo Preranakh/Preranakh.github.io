@@ -36,6 +36,6 @@ Proceedings of NAACL 2025 Main Conference. -->
 ## ✍️ Manuscripts In Preparation
 
 - **Parekh, S., Khatiwada, P., Bagozzi, B. E., Mauriello, M. L.** (2025). *“The Security of Work: Public Perceptions of Generative AI in Creative Writing and its Implications for Labor.”* (*In Preparation* — *CSCW 2025*)
-  
-- **Olson, L., Khatiwada, P., Munirathinam, I. K., Arora, B., McCoy, K.** (2024). *“Towards Improving OCR for People with Visual Impairments by Providing Real-Time Feedback on Photo Quality.”* (*To be Submitted* — *ASSETS 2025*)
+- **Olson, L., Khatiwada, P., Munirathinam, I. K., Arora, B., McCoy, K.** (2024). *“Towards Improving OCR for People with Visual Impairments by Providing Real-Time Feedback on Photo Quality.”* (*To be Submitted* — *ASSETS 2025*)  
+
 ---
