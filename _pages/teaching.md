@@ -9,8 +9,9 @@ author_profile: true
 
 #### **Primary Instructor**  
   * **CISC355 (Computer Ethics and Society)**  
-     * Winter Session 2024 (Jan-Feb)  
-        * Served as an Instructor for the course.  
+     * Winter Session 2024, 2025 (Jan-Feb)
+     * Summer Session 2025, (Jul-Aug)
+        * Served as an Instructor and independently taught the course.  
         * Explained relationships among information technology, society, and ethics by examining issues raised by the increasing use of computers.  
         * Topics include ethics for computer professionals, computer impact on factory work, office work, personal privacy, and social power distribution.  
         * Prepared and delivered engaging and informative lectures or presentations.  
@@ -34,3 +35,4 @@ Courses assisted as a **Teaching Assistant:**
   * **CISC361 (Operating Systems)** – Fall 2022  
   * **CISC482 (Human-Computer Interaction)** – Fall 2024
   * **CISC220 (Data Structures)** – Spring 2025
+  * **CISC101 (Principles of Computing)** – Fall 2025
