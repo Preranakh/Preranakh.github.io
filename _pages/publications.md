@@ -53,19 +53,28 @@ Please find my full list of publications on **[Google Scholar](https://scholar.g
 
 ## 📚 Manuscripts Under Review
 
-- **Khatiwada, P., Syed, N., Halko, L., Mahesh, A., Kiamilev, R., Vazquez, S. A., Mauriello, M. L.** (2025). *“Empowered Readers: A Controlled Usability Study of a Personal Informatics Tool for Supporting Users with Online News Content Discernment.”* (*Under Review* — *IJHCS*)
+- **Khatiwada, P., Syed, N., Halko, L., Mahesh, A., Kiamilev, R., Vazquez, S. A., & Mauriello, M. L.** (2025).  
+  *“‘I Started to Actually Develop Confidence’: A Controlled Usability Study of a Personal Informatics Tool for Supporting Users with Online News Content Discernment.”*  
+  (*Under Review — International Journal of Human–Computer Interaction (IJHCI 2025)*)
 
-- **Khatiwada, P., Ciuba, A., Nayak, A., Gautam, A., Mauriello, M. L.** (2024). *“Regulating Social Media: Surveying the Impact of Nepali Government’s TikTok Ban.”* (*Major Revision CSCW 2025*)
-  
-- **Wang, Q., Khatiwada, P., Chouhan, A., Mahesh, A., Mwaria, J., Tran, D. D., Evans, C. B., Mauriello, M. L.** (2025). *“Exploring Decision Making in Human-AI Collaboration for News Classification with LLM-Generated Explanations.”* (*Under Review* — *IJHCS*)
+- **Khatiwada, P., Pappu, V., Bagozzi, B. E., & Mauriello, M. L.** (2025).  
+  *“When AI Rewrites the News: How Sentiment, Framing, and LLM Disclosure Shape Perceptions.”*  
+  (*Under Review — CHI 2026*)
 
-- Khatiwada, P., Wang, Q., Barner, K., Mauriello, M. L. (2025). “Towards a Multi-modal Multi-Label Election-Context Repository for Classifying Misinformation.” (Under Review — MisD 2025 Conference)
+- **Wang, Q., Khatiwada, P., Chouhan, A., Mahesh, A., Mwaria, J., Tran, D. D., Evans, C. B., & Mauriello, M. L.** (2025).  
+  *“Exploring Decision Making in Human–AI Collaboration for News Classification with LLM-Generated Explanations.”*  
+  (*Under Review — CHI 2026*)
+
+- **Wang, K., Khatiwada, P., & Mauriello, M. L.** (2025).  
+  *“Benchmarking Human and LLM Annotation on Social Media: A Multi-Label Election-Related Misinformation Study.”*  
+  (*Under Review — ACM Web Conference (WWW 2026)*)
+
 
 ---
 
 ## ✍️ Manuscripts In Preparation
 
-- **Parekh, S., Khatiwada, P., Bagozzi, B. E., Mauriello, M. L.** (2025). *“The Security of Work: Public Perceptions of Generative AI in Creative Writing and its Implications for Labor.”* (*In Preparation* — *CSCW 2025*)
-- **Olson, L., Khatiwada, P., Munirathinam, I. K., Arora, B., McCoy, K.** (2024). *“Towards Improving OCR for People with Visual Impairments by Providing Real-Time Feedback on Photo Quality.”* (*To be Submitted* — *ASSETS 2025*)  
+- **Parekh, S., Khatiwada, P., Bagozzi, B. E., Mauriello, M. L.** (2026). *“The Security of Work: Public Perceptions of Generative AI in Creative Writing and its Implications for Labor.”* (*In Preparation* — *DIS 2026*)
+- **Olson, L., Khatiwada, P., Munirathinam, I. K., Arora, B., McCoy, K.** (2024). *“Towards Improving OCR for People with Visual Impairments by Providing Real-Time Feedback on Photo Quality.”* (*In Preparation* — *ASSETS 2026*)  
 
 ---
