@@ -5,19 +5,49 @@ permalink: /publications/
 author_profile: true
 ---
 
+Please find my full list of publications on **[Google Scholar](https://scholar.google.com/citations?user=0xwXPLwAAAAJ&hl=en)**.
+
 ## 📰 Peer-Reviewed Publications
 
-- **Khatiwada, P., Mumma, I., Halko, L., Alvanpour, A., Mauriello, M.L.** (2022). *“Toward Browser-based Interventions to Tackle Misinformation Online.”* The Designing for Mis/Disinformation Workshop (**CHI ‘22 Workshop**).
+- **Khatiwada, P., Halko, L., Syed, N., Mahesh, A., Alvanpour, A., & Mauriello, M. L.** (2025).  
+  *“Spotting Online News: A Mixed Method Study of Online News Engagement and Perceptions on Misinformation Interventions.”*  
+  *Proceedings of the ACM on Human-Computer Interaction*, **9(2)**, Article CSCW173, 30 pages.  
+  Acceptance Rate: ∼25–30%.  
+  https://doi.org/10.1145/3711071
 
-- **Khatiwada, P., Halko, L., Syed, N., Mahesh, A., Alvanpour, A., & Mauriello, M. L.** (2025). *“Spotting Online News: A Mixed Method Study of Online News Engagement and Perceptions on Misinformation Interventions.”* *Proceedings of the ACM on Human-Computer Interaction*, **9(2)**, Article CSCW173, 30 pages. [https://doi.org/10.1145/3711071](https://doi.org/10.1145/3711071)
+- **Khatiwada, P., Ciuba, A., Nayak, A., Gautam, A., & Mauriello, M. L.** (2025).  
+  *“Regulating Social Media: Surveying the Impact of the Nepali Government’s TikTok Ban.”*  
+  *Proceedings of the ACM on Human-Computer Interaction*, **9(7)** (CSCW 2025).  
+  Acceptance Rate: ∼25–30%.
 
-- **Wang, Q., Erqsous, M., Khatiwada, P., Karwankar, A., Alhassan, F. M., Chandrasekaran, A., Abraham, B., Lovell, F., Ngo, A. A., Mauriello, M. L.** (2024). *“Leveraging Large Language Models for Review Classification and Rating Estimation of Mental Health Applications.”* (*ICWSM 2025*)
+- **Wang, Q., Erqsous, M., Khatiwada, P., Karwankar, A., Alhassan, F. M., Chandrasekaran, A., Abraham, B., Lovell, F., Ngo, A. A., & Mauriello, M. L.** (2025).  
+  *“Leveraging Large Language Models for Review Classification and Rating Estimation of Mental Health Applications.”*  
+  *AAAI International Conference on Web and Social Media (ICWSM 2025).*  
+  Acceptance Rate: ∼20–30%.
 
-- **Karwankar, A., Ruggiero, E., Lipkin, Z., Iyer, M. K., Brugel, S., Khatiwada, P., Stevens, D., Mauriello, M. L.** (2025). *“uCue: An Interactive Musical Interface to Enhance Formative Listening Experiences for Children with ASD.”* (*Interaction Design and Children (IDC) Conference 2025*)
-  
-<!-- Mukhopadhyay, S., Rajgaria, A., Khatiwada, P., Shrivastava, M., Roth, D., & Gupta, V. (2025). 
-"MAPWise: Evaluating Vision-Language Models for Advanced Map Queries." 
-Proceedings of NAACL 2025 Main Conference. -->
+- **Karwankar, A., Ruggiero, E., Lipkin, Z., Iyer, M. K., Brugel, S., Khatiwada, P., Stevens, D., & Mauriello, M. L.** (2025).  
+  *“uCue: An Interactive Musical Interface to Enhance Formative Listening Experiences for Children with ASD.”*  
+  *Interaction Design and Children (IDC) Conference 2025.*  
+  Acceptance Rate: ∼30%.
+
+- **Mukhopadhyay, S., Rajgaria, A., Khatiwada, P., Shrivastava, M., Roth, D., & Gupta, V.** (2025).  
+  *“MAPWise: Evaluating Vision-Language Models for Advanced Map Queries.”*  
+  *Proceedings of the NAACL 2025 Main Conference.*  
+  Acceptance Rate: ∼23%.
+
+- **Qidwai, A., Mukhopadhyay, S., Khatiwada, P., Gupta, V., & Roth, D.** (2025).  
+  *“PRAISE: Enhancing Product Descriptions with LLM-Driven Structured Insights.”*  
+  *ACL 2025 System Demonstration Track.*  
+  Acceptance Rate: ∼34–36%.
+
+- **Khatiwada, P., Wang, Q., Barner, K., & Mauriello, M. L.** (2025).  
+  *“Towards a Multi-modal Multi-Label Election-Context Repository for Classifying Misinformation.”*  
+  *Workshop on Misinformation Detection in the Era of LLMs (MisD), ICWSM 2025.*
+
+- **Khatiwada, P., Mumma, I., Halko, L., Alvanpour, A., & Mauriello, M. L.** (2022).  
+  *“Toward Browser-based Interventions to Tackle Misinformation Online.”*  
+  *Designing for Mis/Disinformation Workshop*, CHI 2022.
+
 
 ---
 
