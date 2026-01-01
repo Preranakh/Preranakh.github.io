@@ -52,7 +52,8 @@ Curiosity has always been my guiding force, leading me to explore new ideas and 
 
 Beyond work and research, I find so much joy in the little things—cooking is my therapy, where I can slow down and create something with love. I have a deep love for traveling, capturing moments through photography and video editing, and bringing stories to life through content creation. Sketching is another way I express myself, letting my imagination flow onto paper.
 
-Fun fact about me? I’m always rushing somewhere and forever a fast-facing expert—I like to keep life exciting and full of adventure!
+Fun fact: I tend to move quickly—both in how I walk and how I live. I enjoy staying curious, active, and open to new adventures.
+
 ---
 
 ## Education
