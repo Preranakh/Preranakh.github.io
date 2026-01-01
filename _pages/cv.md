@@ -8,14 +8,15 @@ redirect_from:
 ---
 ---
 
+
 {% include base_path %}
 
 <!--
 You can download a PDF copy of my CV
 [here](/files/Prerana_Khatiwada_Resume.pdf).
+
+<iframe src="/files/Prerana_Khatiwada_Resume.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 -->
 
 You may request my CV by emailing me at  
 **[preranak@udel.edu](mailto:preranak@udel.edu)**.
-
-<iframe src="/files/Prerana_Khatiwada_Resume.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
