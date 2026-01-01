@@ -17,13 +17,28 @@ Graduate Research and Teaching Assisstant, <br>
 [University of Delaware](https://www.udel.edu), Newark, Delaware
 
 
-I am a forth-year Ph.D. student CIS department and an HCI researcher at the University of Delaware, conducting research under [Prof.Matthew Maureillo](https://www.eecis.udel.edu/~mlm/) at [Sensify Lab](https://sensifylab.cis.udel.edu/) on the Community Comms Project.
+I am a Ph.D. candidate in the CIS Department and an HCI researcher at the University of Delaware, conducting research under [Prof. Matthew Mauriello](https://www.eecis.udel.edu/~mlm/) at the [Sensify Lab](https://sensifylab.cis.udel.edu/).
 
 Currently, I am leading the Community Comms project, which aims to develop a Chrome browser plugin that improves users' awareness of news media bias and supports media literacy. This plugin logs users’ browsing data, allows media annotations, and presents insights about news bias using existing datasets. The project explores user perceptions of challenges and benefits in current online news dissemination systems, ultimately contributing design guidelines for creating privacy-preserving, transparent, and user-centric browsing interventions.
 
 My work leverages my expertise in Machine Learning (ML), Natural Language Processing (NLP), and Data Analytics to bridge the gap between users’ needs and technological solutions. I use mixed-methods research approaches to investigate technology-mediated behavior change, online misinformation, and community-driven content evaluation systems. My academic and professional interests span online news article evaluation, personal informatics tools, privacy-focused interventions, interaction design, and Just-in-Time Adaptive Interventions (JITAIs). I am particularly passionate about designing crowdsourcing tools and intervention strategies that combat online misinformation and promote critical media consumption.
 
 **Research Interests or Area**: Human Computer Interaction(HCI), Misinformation, Interventions and Natural Language Processing.
+
+### 🎓 Dissertation Committee
+
+- **Dr. Matthew Louis Mauriello** — Department of Computer and Information Sciences   
+  *Expertise*: Human–Computer Interaction (HCI), Misinformation, Human-Centered AI
+
+- **Dr. Kathy McCoy** — Department of Computer and Information Sciences  
+  *Expertise*: Human–Computer Interaction (HCI), Natural Language Processing (NLP)
+
+- **Dr. Guangmo (Amo) Tong** — Department of Computer and Information Sciences  
+  *Expertise*: Machine Learning, Statistics
+
+- **Dr. Benjamin Bagozzi** — Department of Political Science and International Relations  
+  *Expertise*: Political Science, Computational Social Science  
+
 
 ---
 
