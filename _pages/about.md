@@ -40,8 +40,6 @@ My work leverages my expertise in Machine Learning (ML), Natural Language Proces
   *Expertise*: Political Science, Computational Social Science  
 
 
----
-
 <!-- Get a PDF copy of my CV [here](/files/Prerana_Khatiwada_resume.pdf) -->
 
 ---
