@@ -24,7 +24,9 @@ Currently, I am leading the Community Comms project, which aims to develop a Chr
 -->
 
 My research focuses on technology-mediated behavior change, privacy, and interaction design, with an emphasis on adaptive digital interventions to improve media and data literacy among online readers. I currently lead the Community Comms project, which develops a Chrome browser plugin that increases awareness of news media bias through privacy-preserving browsing analytics, annotations, and bias insights.
+
 I leverage Machine Learning (ML), Natural Language Processing (NLP), and mixed-methods research to study online misinformation and community-driven content evaluation. In parallel, I am developing an LLM-based system to detect credibility and framing in news articles and generate personalized, real-time interventions using dynamic selection algorithms.
+
 I hold an M.S. in Computer Science from the University of Delaware and a B.E. in Computer Engineering from Kathmandu University, Nepal. I will be seeking full-time roles beginning Spring 2027, including tenure-track faculty positions, to continue research at the intersection of human-centered computing, misinformation, and responsible AI.
 
 <!--
