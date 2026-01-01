@@ -5,10 +5,21 @@ permalink: /service-to-profession/
 author_profile: true
 ---
 
+## Scholarly & Professional Service (Peer Review & Research Community)
+
+- **Associate Chair** — *ACM CSCW Poster Track* (2023–2025)  
+- **Reviewer** — *ACM CHI* (2023–Present)  
+- **Reviewer** — *ACM CSCW* (2023–Present)  
+- **Workshop Juror** — *ACM CHI 2026 Workshop Papers* (2025)  
+- **Reviewer** — *ACM DIS* (2024)  
+- **Reviewer** — *ACM IMX; CogSci; CUI; CHI PLAY; MobileHCI; AMCIS* (2024)  
+- **Student Volunteer** — *ICWSM* (2025); *ACM DIS* (2023)  
+- **Member** — *AAAI* (2025–Present); *ACM & SIGCHI* (2021–Present)
+
 ## 🏛️ **Leadership Roles**
 - **Co-Chair, Professional Development and Public Relations** — *Delaware Nepali Society* (2025–Present)  
-- **Vice President (Student Affairs)** — *Graduate Student Government, University of Delaware* (2024–Present)  
-- **President** — *Nepalese Student Association, University of Delaware* (2024–Present)  
+- **Vice President (Student Affairs)** — *Graduate Student Government, University of Delaware* (2024–2025)  
+- **President** — *Nepalese Student Association, University of Delaware* (2024–2025)  
 - **Vice President (Internal Affairs)** — *Graduate Student Government, University of Delaware* (2023–2024)  
 - **Vice President** — *Nepalese Student Association, University of Delaware* (2023–2024)  
 - **Executive Member & Event Manager** — *Nepalese Student Association, University of Delaware* (2021–2022)  
@@ -17,7 +28,7 @@ author_profile: true
 ---
 
 ## 🤝 **Mentorship & Community Engagement**
-- **Lead EmPOWER Mentor** *(Empathic Peers Offering Wisdom, Encouragement, and Resources),* *CIS, University of Delaware* (2023–Present)  
+- **Lead EmPOWER Mentor** *(Empathic Peers Offering Wisdom, Encouragement, and Resources),* *CIS, University of Delaware* (2023–2025)  
 - **Peer EmPOWER Mentor** — *CIS, University of Delaware* (2022–2023)  
 - **iBuddy Mentor** — *CGPS & iBuddy Council, University of Delaware* (2023–2024)  
 - **Mentor** — *Grace Hopper Celebration of Women in Computing, University of Delaware* (2023)  
@@ -30,9 +41,9 @@ author_profile: true
 
 ## 💻 **Design & Development**
 - **Website Designer** — *Delaware Nepali Society (DNS)* (2025–Present)
-- **Website Designer** — *Nepalese Student Association, University of Delaware* (2023–Present)  
+- **Website Designer** — *Nepalese Student Association, University of Delaware* (2023–2025)  
 - **Website Designer** — *Graduate Student Government (GSG-UD)* (2024–2025)  
-- **Graphic Designer** — *Nepalese Student Association, University of Delaware* (2023–Present)  
+- **Graphic Designer** — *Nepalese Student Association, University of Delaware* (2023–2025)  
 - **Graphic Designer** — *Nepali Women in Computing (NWiC)* (2024–Present)  
 
 ---
